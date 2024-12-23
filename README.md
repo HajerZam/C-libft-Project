@@ -1,5 +1,8 @@
 # C-libft-Project
 my first project in 42 common core yippee ✦ദ്ദി ༎ຶ‿༎ຶ )⋅˚₊
+https://education.github.com/discount_requests/new
+
+
 
 Check list 
 Functions to check and manipulate characters:
