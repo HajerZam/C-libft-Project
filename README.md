@@ -66,3 +66,17 @@ ft_lstiter
 ft_lstmap
 
 resources:
+
+𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕔 𝕚𝕟 𝕘𝕖𝕟𝕖𝕣𝕒𝕝
+✩ https://quickref.me/c.html
+✩ https://www.learn-c.org/
+✩ https://github.com/jflaherty/ptrtut13
+✩ Jacob Sorber on YouTube ( ˶ˆᗜˆ˵ )
+
+𝕥𝕙𝕚𝕤 𝕤𝕡𝕖𝕔𝕚𝕗𝕚𝕔 𝕡𝕣𝕠𝕛𝕖𝕔𝕥
+✩ https://stackoverflow.com/questions/6417158/c-how-to-free-nodes-in-the-linked-list
+✩ https://www.learn-c.org/en/Linked_lists
+✩ https://www.programiz.com/dsa/linked-list
+✩ https://www.geeksforgeeks.org/linked-list-in-c/
+✩ https://www.w3schools.com/c/c_structs.php
+✩ https://www.programiz.com/c-programming/c-structures
