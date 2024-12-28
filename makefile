@@ -1,4 +1,4 @@
-CC       = cc
+CC       = gcc
 AR       = ar
 CFLAGS   = -Wall -Wextra -Werror
 

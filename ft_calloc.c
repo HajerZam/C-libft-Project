@@ -6,23 +6,20 @@
 /*   By: halzamma <halzamma@student.42roma.it>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/19 13:26:41 by halzamma          #+#    #+#             */
-/*   Updated: 2024/12/19 13:26:41 by halzamma         ###   ########.fr       */
+/*   Updated: 2024/12/28 15:48:15 by halzamma         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include "libft.h"
 
 void	*ft_calloc(size_t count, size_t size)
 {
-	void			*ptr;
-	size_t			total_size;
-	unsigned char	*byte_ptr;
+	void	*ptr;
 
-	total_size = count * size;
-	ptr = malloc(total_size);
+	if (size != 0 && count > ((size_t)-1) / size)
+		return (NULL);
+	ptr = malloc(count * size);
 	if (ptr == NULL)
 		return (NULL);
-	byte_ptr = (unsigned char *)ptr;
-	while (total_size--)
-		*byte_ptr++ = 0;
+	ft_bzero(ptr, count * size);
 	return (ptr);
 }
