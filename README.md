@@ -80,3 +80,4 @@ resources:
 ✩ https://www.geeksforgeeks.org/linked-list-in-c/
 ✩ https://www.w3schools.com/c/c_structs.php
 ✩ https://www.programiz.com/c-programming/c-structures
+✩ https://www.geeksforgeeks.org/strdup-strdndup-functions-c/
