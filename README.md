@@ -81,3 +81,6 @@ resources:
 ✩ https://www.w3schools.com/c/c_structs.php
 ✩ https://www.programiz.com/c-programming/c-structures
 ✩ https://www.geeksforgeeks.org/strdup-strdndup-functions-c/
+
+
+And with that I finished my first project and scored a 125 :D how nice!
